@@ -1,0 +1,21 @@
+
+local C-> laragon-> bin-> php-> php------ file path copy
+window search-> enviroment viriable
+path --> edit
+
+
+
+how to test php version ==> php -bin
+
+
+
+laragon => terminal composer -v
+
+time in header
+
+Registeration====>
+
+
+
+birtth ==> datepicker imort,moment for formet,date ko null pay,value=>change
+
